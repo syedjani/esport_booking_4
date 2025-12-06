@@ -1,5 +1,5 @@
 flask
 gspread
-
 google-auth
-gunicorn app:app
+gunicorn
+
